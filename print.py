@@ -1,7 +1,7 @@
 import turtle
 t = turtle.Pen()
 turtle.bgcolor("black")
-colors = ["red", "yellow", "blue", "green"]
+colors = ["orange", "yellow", "blue", "green"]
 your_name = turtle.textinput("Enter your name", "What is your name?")
 
 for x in range(100):
